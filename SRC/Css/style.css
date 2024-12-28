@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: salmon;
+
+  font-weight: normal;
+  color: black;
+  justify-content: center;
+  display: flex;
+}
+
+.addie-asperger {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 600;
+  font-family: "Merriweather";
+  text-align: center;
+  margin-bottom: 20px;
+}
+.lineone-hr {
+  margin-top: 30px;
+  margin-bottom: 35px;
+}
+.main-box {
+  padding-top: 75px;
+  background-color: white;
+  width: 900px;
+  height: 2900px;
+  border: solid 1px black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.asperger-text {
+  padding: 20px;
+  font-family: "Lora";
+  text-align: center;
+}
+.block-one {
+  font-family: "roboto mono";
+  font-size: 18px;
+  margin: 50px;
+  padding: 15px;
+}
+hr {
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+p {
+  font-family: "Roboto Mono";
+}
+h3 {
+  font-family: "Merriweather";
+  padding-left: 2rem;
+  margin-bottom: 5px;
+}
+.asper-note {
+  margin: 20px;
+  font-size: 18px;
+  padding-left: 2rem;
+}
+.empathy-aesp {
+  font-family: "Merriweather";
+}
+a {
+  text-decoration: none;
+}
+.empathy-explain {
+  font-size: 18px;
+  padding-left: 2rem;
+  margin: 20px;
+}
+.social-note {
+  margin: 20px;
+  font-size: 18px;
+  padding-left: 2rem;
+}
+.lists {
+  font-size: 17px;
+  font-family: "Roboto Mono";
+  color: tomato;
+  padding-left: 5rem;
+}
+.physical-symptoms {
+  margin-top: 50px;
+}
+.physical-symptoms-notes {
+  margin: 20px;
+  font-size: 18px;
+  padding-left: 2rem;
+}
